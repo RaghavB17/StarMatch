@@ -5,7 +5,7 @@ Run "npm install" after cloning the code on your environment.
 
 OR
 
-Refer to jscomplete.com/reactful
+Refer to https://jscomplete.com/learn/1rd-reactful
 
 ----------------
 
